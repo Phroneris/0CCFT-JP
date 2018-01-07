@@ -414,7 +414,7 @@ VRC7,Patch,パッチ,,
 ,Mult. factor,倍率,,
 ,Attack,アタック,14 127 26 8,
 ,Decay,ディケイ,85 127 26 8,
-,Sustain,サスティン,14 144 28 8,The last "ン" is cut off.
+,Sustain,サスティン,14 144 28 8,The last \"ン\" is cut off.
 ,Release,リリース,,
 ,Carrier settings,搬送波設定,,
 ,Amplitude modulation,トレモロモジュレーション,,
@@ -424,9 +424,9 @@ VRC7,Patch,パッチ,,
 ,Key scaling,キースケール,,
 ,Level,レベル:,226 87 25 8,
 ,Mult. factor,倍率,,
-,Attack,アタック,,I don't know why I didn't edit the "Area".
-,Decay,ディケイ,,I don't know why I didn't edit the "Area".\nThe last "イ" is cut off.
-,Sustain,サスティン,,I don't know why I didn't edit the "Area".\nThe last "ン" is cut off.
+,Attack,アタック,,I don't know why I didn't edit the \"Area\".
+,Decay,ディケイ,,I don't know why I didn't edit the \"Area\".\nThe last \"イ\" is cut off.
+,Sustain,サスティン,,I don't know why I didn't edit the \"Area\".\nThe last \"ン\" is cut off.
 ,Release,リリース,,
 ,Copy,コピー,,
 ,Paste,貼り付け,,
