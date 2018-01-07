@@ -414,7 +414,7 @@ VRC7,Patch,パッチ,,
 ,Mult. factor,倍率,,
 ,Attack,アタック,14 127 26 8,
 ,Decay,ディケイ,85 127 26 8,
-,Sustain,サスティン,"14 144 28 8,The last ""ン"" is cut off".
+,Sustain,サスティン,14 144 28 8,"The last ""ン"" is cut off".
 ,Release,リリース,,
 ,Carrier settings,搬送波設定,,
 ,Amplitude modulation,トレモロモジュレーション,,
